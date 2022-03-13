@@ -1,0 +1,22 @@
+		.h1 {
+	color: antiquewhite;
+	background: blueviolet;
+	font-size: 1.3rem;
+	padding: 20px;
+	font-family: 'Courier New', Courier, monospace;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 10px;
+
+}
+.btn {
+	border-radius: 5px;
+	background: #CA0000;
+	width: 230px;
+height: 57px;
+transition: 0.5s;
+}
+.btn:hover {
+	transform: rotateY(30px);
+	transition: 0.5s;
+}
